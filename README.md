@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Akhilesh Rao U
 - 👀 I’m very passionate about web development
-- 🌱 I’m currently learning and working on react js,redux and redux-thunk
+- 🌱 I’m currently learning and working on react js,redux ,node js,mySQL and neo4j
 - 💞️ My next goal is to become a Full Stack Devoloper
